@@ -1,7 +1,7 @@
 # browncell
 Stochastic simulations of particle motion in cells in MATLAB
 
-This is part of the course Advanced Topics in Scientific Computing I 
+This is part of the course Advanced Topics in Scientific Computing I at
 Uppsala University
 
 By: 
